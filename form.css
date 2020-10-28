@@ -1,0 +1,17 @@
+body{
+    background-color:lightsteelblue ;
+}
+
+.title{
+    text-align:center;
+    margin: 30px;
+}
+label{
+    font-size: 22px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.btn-submit {
+    font-size: 22px;
+    margin-bottom: 30px;
+}
